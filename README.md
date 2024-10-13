@@ -1,1 +1,1 @@
-Solutions from official and Unofficial Submissions made during the Mexico's ICPC contest
+Solutions from official and Unofficial Submissions made during my participations in ICPC's contests
